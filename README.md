@@ -1,4 +1,6 @@
-<img src="https://cdn.pixabay.com/photo/2020/07/12/10/26/scale-5396788_1280.png" alt="Logo do Projeto" width="400" height="300">
+<p align="center">
+   <img src="https://cdn.pixabay.com/photo/2020/07/12/10/26/scale-5396788_1280.png" alt="Logo do Projeto" width="400" height="300">
+</p>
 
 #  Estimativa dos Níveis de Obesidade com Base em Hábitos Alimentares e Condição Física
 
